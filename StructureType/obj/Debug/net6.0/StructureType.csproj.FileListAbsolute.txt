@@ -1,0 +1,15 @@
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.csproj.AssemblyReference.cache
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/StructureType
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/StructureType.deps.json
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/StructureType.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/StructureType.dll
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/ref/StructureType.dll
+/home/henryw/Documents/Projects/C#/testtest/StructureType/bin/Debug/net6.0/StructureType.pdb
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.dll
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/ref/StructureType.dll
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.pdb
+/home/henryw/Documents/Projects/C#/testtest/StructureType/obj/Debug/net6.0/StructureType.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums.deps.json
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums.dll
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/ref/enums.dll
+/home/henryw/Documents/Projects/C#/testtest/enums/bin/Debug/net5.0/enums.pdb
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.dll
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/ref/enums.dll
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.pdb
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.genruntimeconfig.cache
+/home/henryw/Documents/Projects/C#/testtest/enums/obj/Debug/net5.0/enums.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle.deps.json
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle.dll
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/ref/farro_shuffle.dll
+/home/henryw/Documents/Projects/C#/farro_shuffle/bin/Debug/net5.0/farro_shuffle.pdb
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.dll
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/ref/farro_shuffle.dll
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.pdb
+/home/henryw/Documents/Projects/C#/farro_shuffle/obj/Debug/net5.0/farro_shuffle.genruntimeconfig.cache

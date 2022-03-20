@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Im93WW/P9cV7bp5hKzf0Uc9H+e04h7QN9IrdYQ07scehYj258cKas6IuasFvzDktpRhdJ7z0gP8Vz0luKTXmwQ==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/FunWithMethods.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

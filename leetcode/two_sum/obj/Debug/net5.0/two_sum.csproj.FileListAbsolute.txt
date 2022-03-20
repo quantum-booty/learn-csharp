@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum.deps.json
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum.dll
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/ref/two_sum.dll
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/bin/Debug/net5.0/two_sum.pdb
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.dll
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/ref/two_sum.dll
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.pdb
+/home/henryw/Documents/Projects/C#/leetcode/two_sum/obj/Debug/net5.0/two_sum.genruntimeconfig.cache

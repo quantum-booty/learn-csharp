@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary.deps.json
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary.dll
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/ref/dictionary.dll
+/home/henryw/Documents/Projects/C#/dictionary/bin/Debug/net5.0/dictionary.pdb
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.dll
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/ref/dictionary.dll
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.pdb
+/home/henryw/Documents/Projects/C#/dictionary/obj/Debug/net5.0/dictionary.genruntimeconfig.cache

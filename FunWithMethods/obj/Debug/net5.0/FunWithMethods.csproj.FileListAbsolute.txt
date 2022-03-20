@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods.deps.json
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods.dll
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/ref/FunWithMethods.dll
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/bin/Debug/net5.0/FunWithMethods.pdb
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.dll
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/ref/FunWithMethods.dll
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.pdb
+/home/henryw/Documents/Projects/C#/testtest/FunWithMethods/obj/Debug/net5.0/FunWithMethods.genruntimeconfig.cache

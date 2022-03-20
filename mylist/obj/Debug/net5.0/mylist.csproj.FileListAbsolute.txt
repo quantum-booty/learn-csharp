@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist.deps.json
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist.dll
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/ref/mylist.dll
+/home/henryw/Documents/Projects/C#/mylist/bin/Debug/net5.0/mylist.pdb
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.dll
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/ref/mylist.dll
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.pdb
+/home/henryw/Documents/Projects/C#/mylist/obj/Debug/net5.0/mylist.genruntimeconfig.cache

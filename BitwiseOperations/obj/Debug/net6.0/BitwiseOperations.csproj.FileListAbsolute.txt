@@ -1,0 +1,15 @@
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/BitwiseOperations
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/BitwiseOperations.deps.json
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/BitwiseOperations.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/BitwiseOperations.dll
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/ref/BitwiseOperations.dll
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/bin/Debug/net6.0/BitwiseOperations.pdb
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.csproj.AssemblyReference.cache
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.dll
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/ref/BitwiseOperations.dll
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.pdb
+/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/obj/Debug/net6.0/BitwiseOperations.genruntimeconfig.cache

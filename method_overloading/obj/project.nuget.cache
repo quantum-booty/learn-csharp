@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mogya1LiNdePjB5rSLXS+6wIaN1HWGkkXu46j3t8ZP+pYQgeZr9JgBr/xly4yz6SyCaaIGZTIDcQa8gYvT+Mdg==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/method_overloading/method_overloading.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

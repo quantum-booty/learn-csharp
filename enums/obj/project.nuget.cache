@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "951xe4H5lmrjl7lQJvrmsXFw+N3jkyaO6Qt7xnhd5iTWLO//VvIgUm0lKQMXy4pxJpnHHHjy2FZ0weVkIZ/jeQ==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/testtest/enums/enums.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

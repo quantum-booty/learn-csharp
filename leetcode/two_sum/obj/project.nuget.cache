@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QCrlDHifBhfAxnWUNw/ONtvpTn3+/tbgOXrhZUiiJ0Za5zKZs5Vbhg8QCZYz7E8kyCm67LCVD0NzUzXr6JbECQ==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/leetcode/two_sum/two_sum.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

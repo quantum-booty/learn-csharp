@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3l3m6AvzPSTb1VpEWItbfDRSTV0tckqXR0hmEGR/9fIT//OjGLA5Kvmfys3OM8SrqwmPQJF6kBPQsC5X2Cauw==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/testtest/BitwiseOperations/BitwiseOperations.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

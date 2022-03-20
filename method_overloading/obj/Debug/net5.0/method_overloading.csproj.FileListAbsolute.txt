@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading.deps.json
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading.dll
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/ref/method_overloading.dll
+/home/henryw/Documents/Projects/C#/method_overloading/bin/Debug/net5.0/method_overloading.pdb
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.dll
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/ref/method_overloading.dll
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.pdb
+/home/henryw/Documents/Projects/C#/method_overloading/obj/Debug/net5.0/method_overloading.genruntimeconfig.cache

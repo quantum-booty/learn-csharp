@@ -1,0 +1,13 @@
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list.deps.json
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list.dll
+/home/henryw/Documents/Projects/C#/list/bin/Debug/netcoreapp3.1/list.pdb
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.dll
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.pdb
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/list/obj/Debug/netcoreapp3.1/list.genruntimeconfig.cache

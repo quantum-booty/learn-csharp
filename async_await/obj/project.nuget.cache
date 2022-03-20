@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqAoHJsn1qDHYq3EMdXnBdgXpQWi61g4R7cADEBdBJ9C2g3RTHGke90IqUzh0ZanVxhdxMUuYIjiguaq5Z8e9g==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/async_await/async_await.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

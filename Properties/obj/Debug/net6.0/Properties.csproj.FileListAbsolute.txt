@@ -1,0 +1,15 @@
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/Properties
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/Properties.deps.json
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/Properties.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/Properties.dll
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/ref/Properties.dll
+/home/henryw/Documents/Projects/C#/testtest/Properties/bin/Debug/net6.0/Properties.pdb
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.csproj.AssemblyReference.cache
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.dll
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/ref/Properties.dll
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.pdb
+/home/henryw/Documents/Projects/C#/testtest/Properties/obj/Debug/net6.0/Properties.genruntimeconfig.cache

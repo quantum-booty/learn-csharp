@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array.deps.json
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array.dll
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/ref/array.dll
+/home/henryw/Documents/Projects/C#/array/bin/Debug/net5.0/array.pdb
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.dll
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/ref/array.dll
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.pdb
+/home/henryw/Documents/Projects/C#/array/obj/Debug/net5.0/array.genruntimeconfig.cache

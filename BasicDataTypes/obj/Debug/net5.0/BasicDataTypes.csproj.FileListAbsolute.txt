@@ -1,0 +1,16 @@
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes.deps.json
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes.runtimeconfig.json
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes.runtimeconfig.dev.json
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes.dll
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/ref/BasicDataTypes.dll
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/bin/Debug/net5.0/BasicDataTypes.pdb
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.csprojAssemblyReference.cache
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.AssemblyInfoInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.AssemblyInfo.cs
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.csproj.CoreCompileInputs.cache
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.dll
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/ref/BasicDataTypes.dll
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.pdb
+/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/obj/Debug/net5.0/BasicDataTypes.genruntimeconfig.cache

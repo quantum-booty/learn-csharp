@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWKr1h7J+qvG2fc16HPefaPEGEOVGrW2VdsPGv5UU6NL+EmwoJ8BfHsJ7rFR29wqpPcUGRYYaiycOZM4YFWgKg==",
+  "success": true,
+  "projectFilePath": "/home/henryw/Documents/Projects/C#/testtest/BasicDataTypes/BasicDataTypes.csproj",
+  "expectedPackageFiles": [
+    "/home/henryw/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
